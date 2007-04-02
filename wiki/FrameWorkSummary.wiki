@@ -8,7 +8,7 @@ Lists out details of different modules.
 = Details =
 
   *  [Purchase]
-  *  [Material Management Framework]
+  *  [MaterialManagementFramework Materials]
   *  [Production]
   *  [Sales]
   *  [Costing]
