@@ -1,11 +1,25 @@
 #labels Phase-Design,Materials
-
 = Introduction =
 To build the complete framework for material management in LeatherLink ERP
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+==Masters==
+# Different type of materials
+# Defining an item
+# Standard prices for an item
+# Issue options for an item
+# Reorder level
+
+==Inventory==
+# Creating a opening stocks
+# Stock adjustments
+# Material consumption methods - FIFO, FEFO, LIFO etc
+# Physical Stock taking
+# Stock reconciliation
+
+==Request Procedure==
+
+==Receipt Procedure==
+
+==Issue Procedure==
