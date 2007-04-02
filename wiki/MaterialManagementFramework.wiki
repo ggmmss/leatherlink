@@ -26,7 +26,21 @@ To build the complete framework for material management in LeatherLink ERP
   #  Stock reconciliation
 
 ==Request Procedure==
+  # Materials Requirements Planning
+  # Bill of Material
+  # 
+
+==Ordering==
+  * Fixed-order quantity model
+  * Fixed-time period model
 
 ==Receipt Procedure==
 
 ==Issue Procedure==
+
+==Accounts==
+
+  # Holding Costs
+  # Setup costs
+  # Ordering Costs
+  # Shortage costs
