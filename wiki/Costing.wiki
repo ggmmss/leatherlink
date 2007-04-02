@@ -1,0 +1,15 @@
+#summary Cost accounting reports in LeatherLink
+#labels Phase-Design
+
+= Introduction =
+
+Cost Accounting reports
+
+
+= Details =
+
+  # Purchase Lot Analysis
+  # Production Batch Analysis
+  # Sales Shipment Analysis
+  # Customer Order Analysis
+ 
