@@ -1,0 +1,15 @@
+#labels Featured
+#Complete technical framework for LeatherLink
+
+= Introduction =
+
+Lists out details of different modules. 
+
+= Details =
+
+  *  Purchase
+  *  Materials
+  *  Production
+  *  Sales
+  *  Costing
+  *  MIS
