@@ -5,18 +5,18 @@ To build the complete framework for material management in LeatherLink ERP
 = Details =
 
 ==Masters==
-  #Different type of materials
-  #Defining an item
-  #Standard prices for an item
-  #Issue options for an item
-  #Reorder level
+  #  Different type of materials
+  #  Defining an item
+  #  Standard prices for an item
+  #  Issue options for an item
+  #  Reorder level
 
 ==Inventory==
-  #Creating a opening stocks
-  #Stock adjustments
-  #Material consumption methods - FIFO, FEFO, LIFO etc
-  #Physical Stock taking
-  #Stock reconciliation
+  #  Creating opening stocks
+  #  Stock adjustments
+  #  Material consumption methods - FIFO, FEFO, LIFO etc
+  #  Physical Stock taking
+  #  Stock reconciliation
 
 ==Request Procedure==
 
