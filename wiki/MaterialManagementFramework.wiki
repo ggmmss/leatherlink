@@ -10,6 +10,13 @@ To build the complete framework for material management in LeatherLink ERP
   #  Standard prices for an item
   #  Issue options for an item
   #  Reorder level
+  #  Material categories
+  ## Raw materials
+  ## Finished Goods
+  ## Work in Progress
+  ## Component parts
+  ## Supplies
+  ## Consumables
 
 ==Inventory==
   #  Creating opening stocks
