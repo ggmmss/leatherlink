@@ -16,3 +16,4 @@ Lists out details of different modules.
   *  [AuditTrack]
   *  [UserPrivileges]
   *  [WOWFactors]
+  *  [Connectivity]
