@@ -15,4 +15,4 @@ Procedure for tracking production activities.
 
 ==Quality Control==
 
-[MaterialManagmentFramework Inventroy]
+[MaterialManagementFramework Inventory]
