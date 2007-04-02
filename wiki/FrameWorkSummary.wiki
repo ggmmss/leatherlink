@@ -13,3 +13,6 @@ Lists out details of different modules.
   *  [Sales]
   *  [Costing]
   *  [MIS]
+  *  [AuditTrack]
+  *  [UserPrivileges]
+  *  [WOWFactors]
