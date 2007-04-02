@@ -1,0 +1,29 @@
+#summary Management Information System.
+#labels Phase-Design
+
+= Introduction =
+
+Key reports for the top management
+
+= Details =
+
+Add your content here.  Format your content with:
+  
+  # Purchase - 
+    Receipt assortment report
+    Purchase lot report
+  # Production - 
+    Rejection analysis report
+    Batch costing
+  # Processing - 
+    Process deviation report
+  # Sales - 
+    Delivery performance report
+    Shipment costing report
+
+  # Overall
+    Monthly operations report 
+  	Total purchases with value
+	Total sales with value
+	Overall inventory statement with value
+ 	Sales - Purchases + Inventory Change = Operating Profit
