@@ -8,32 +8,26 @@ Plan to identify, recruit, train and retain talented people
 
 = Details =
 
-If we continue do what we've been doing then we will get what we've been getting. If we don't improve (leap) then we will be in the same state.
+==Need to Improve==
 
-Identifying, recruiting and training people is a key function.
+If we continue do what we've been doing then we will get what we've been getting. If we don't improve (leap) then we will be in the same state. Identifying, recruiting and training people is a key function.
 
-We can look to hire junior level developers, top notch talent mostly from India to start with I guess. 
+Recruitment is very important in this knowledge-based domain, people are THE KEY resources. 
 
-Recruitment is very important in this knowledge-based domain, people are THE KEY resources
+We are in the business of making software- and people's brain are raw material.  Raw material management is key in any business getting the right quality at the right price. Otherwise however many times you try- the end product is not going to get any quality if you start with inferior quality raw material. 2 bright brains combine and form more than 2 brains -  probably it's 2.5 bright brain 
+
+==Hiring Strategy==
+
+
 HCL in the early years, went around all the polytechnics (govt + other good ones) to get young people and trained them hard. This strategy has got 2 merits
 
 1) We do get quality people from polytechnic- lots of bright students join polytechnic due to economical conditions
 
 2) We have large pool of people to select from - and once we train them - they usually don't leave, because almost all the big companies need BE or MCA
 
-Delight the prospective employees by paying them reasonable amount of salary and make all the arrangements to settle in the new place like Chennai.
-
 We need to have a plan to recruit. We need to make sure that the company is not a shop that any one can walk (through referrals - of-course) and join. If we set some standards in recruiting, whoever get employed will value the company bit more.
 
 We will get what we look for - like searching gold from the sand. We need to have 2 or 3 filtering system. Start with big pool- send the word out to as many colleges/polytechnic as possible.
-
-Stock-option should be a must - for startups like ours - to compensate for the disparity in the salary. Spend as much time recruiting as selling. 
-
-We are in the business of making software- and people's brain are raw material.  Raw material management is key in any business getting the right quality at the right price. Ofcourse, otherwise however many times you try- the end product is not going to get any quality if you start with inferior quality raw material. 2 bright brains combine and form more than 2 brains -  probably it's 2.5 bright brain 
-
-there are untapped potential out there - go out - make a speech - get the buy in - make them to believe in us - we will reward them big at the end, the end may be 5 or 6 years from now
-
-We need to design the reward system so that the right (and bright) people are attracted, and they believe in us, and they want to stay with us longer
 
 Jack welch says, In GE, they identify 10% bottom performers from each team and let them go. 20% top performers are actively motivated and celebrated, 70% midlevel performers are retained, 10% just go. Every year that is a must. In the initial years identifying the bottom 10% is easy, as time went on, it became difficult still they persisted.
 
@@ -51,6 +45,16 @@ We need to have a strong recruitment system in place, before talking about how t
 
 If you demonstrate that you care even if you ask him/her to leave - In GE they could do it, since the company is so big and profitable, they can afford to be generous.
 
+
+==Specific Steps==
+
+Delight the prospective employees by paying them reasonable amount of salary and make all the arrangements to settle in the new place like Chennai.
+
+Stock-option should be a must - for startups like ours - to compensate for the disparity in the salary. Spend as much time recruiting as selling. 
+
+There are untapped potential out there - go out - make a speech - get the buy in - make them to believe in us - we will reward them big at the end, the end may be 5 or 6 years from now
+
+We need to design the reward system so that the right (and bright) people are attracted, and they believe in us, and they want to stay with us longer
 
 1) The candidate must have atleast 80% minimum
 2) must have 85% in SSLC or in HSC
