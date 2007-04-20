@@ -7,39 +7,39 @@ Managing tomorrow's tannery business using LeatherLink
 =Basics of Tannery Business=
 
 ==Cost control==
-#Purchase raw material at the right time and at right prices (Raw Material Cost)
+ # Purchase raw material at the right time and at right prices (Raw Material Cost)
  ** monitor grades obtained from each purchase lot and analyze trends for suppliers,   origins, and seasons
  ** Calculate purchase price, other purchase costs, cost conversion into wet blue to obtain total cost
  ** Based on market value of different articles assign value to each wet blue grade
  ** Difference between the cost and total value is the indicator of purchase efficiency 
 
-#Utilize right grade for the right article (Raw Material / Down gradation Cost)
+ # Utilize right grade for the right article (Raw Material / Down gradation Cost)
  ** As planned, issue the right mix of grades for making different leathers
  ** Monitor fall outs at crust stage and finished stage
  ** Determine causes of fall out and if it is due to wet blue grade take corrective actions
 
-#Reduce rejections at crust and finished leather (Rejection cost)
+ # Reduce rejections at crust and finished leather (Rejection cost)
  ** Identify and track rejection causes
  ** Analyze trends over days and months, pin point major reason for rejections and take corrective action
  ** Repeat the process again
 
-#Optimum use of chemicals (Chemical cost)
+ # Optimum use of chemicals (Chemical cost)
  ** Use the right chemicals at the right quantity in processing
  ** Control receipt, storage, issue and consumption of chemicals
  ** Monitor chemical consumption against recipe percentage
 
-#Monitor and avoid area loss
+ # Monitor and avoid area loss
  ** Monitor area changes during processing
  ** Analyze statistics over weeks and months product wise, origin wise, supplier wise, colour wise, process wise.
  ** Take corrective actions for area gain
 
-#Inventory management
+ # Inventory management
  ** Plan chemical requirement for customer orders 
  ** Purchase chemical at the right time 
  ** Avoid delay due to non-availability of chemicals
 
 ==Customer service==
-#Delivery scheduling
+ # Delivery scheduling
  ** Commit realistic delivery dates and honor them
  ** Identify availability of raw material (wet blue) for an order
  ** Identify availability of chemicals for an order
