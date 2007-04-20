@@ -7,7 +7,7 @@ Managing tomorrow's tannery business using LeatherLink
 =Basics of Tannery Business=
 
 ==Cost control==
- * Purchase raw material at the right time and at right prices (Raw Material Cost)
+=== Purchase raw material at the right time and at right prices (Raw Material Cost)===
  ** monitor grades obtained from each purchase lot and analyze trends for suppliers,   origins, and seasons
  ** Calculate purchase price, other purchase costs, cost conversion into wet blue to obtain total cost
  ** Based on market value of different articles assign value to each wet blue grade
