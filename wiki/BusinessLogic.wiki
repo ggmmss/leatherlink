@@ -1,7 +1,5 @@
-#summary One-sentence summary of this page.
 #labels Featured
-
-= Leather Business Logic =
+= Leatherlink Business Logic =
 Managing tomorrow's tannery business using LeatherLink
 
 =Basics of Tannery Business=
