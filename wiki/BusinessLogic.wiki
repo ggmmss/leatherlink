@@ -43,3 +43,10 @@ Managing tomorrow's tannery business using LeatherLink
  ** Identify availability of chemicals for an order
  ** Identify availability of production capacity for an order
  ** Monitor deviations from plan and keep the customer informed
+
+ # Samples processing
+ ** Track sample request from customers
+ ** Prepare and send samples within committed date.
+ ** On failure, keep the customer informed about the revised delivery date
+ ** Track process, operations used for the sample for scaling to bulk production
+ ** Calculate the cost of making the article and price new articles accurately.
