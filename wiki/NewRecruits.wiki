@@ -1,5 +1,5 @@
 #labels Phase-Requirements
-No	Activity	Start	End	Budget (Rs)	Target No
+||No||	||Activity||	||Start||	||End||	||Budget (Rs)||	||Target No||
 1	Identify colleges	Apr 2007	May 2007	500	20
 2	Identify students	May 2007	Jun 2007	1000	1000
 3	Write to students	Jul 2007	Aug 2007	2000	1000
