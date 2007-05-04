@@ -6,8 +6,8 @@
 
 = Details =
 
- || ||Qualification || Experience||
-Project Manager||1||Any Degree||2+ years in management
+ ||Role || No || Qualification || Experience ||
+ ||Project Manager || 1 || Any Degree || 2+ years in management ||
 Senior Programmers||4||CSC degree||2+ years|| strong skills
 Trainee programmers||10||CSC degree||Freshers
 UI Designer||1||Design course||Design skill/sense
