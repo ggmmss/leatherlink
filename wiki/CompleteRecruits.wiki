@@ -3,73 +3,16 @@
 
 = Introduction =
 
-Add your content here.
-
 
 = Details =
 
-<TABLE FRAME=VOID CELLSPACING=0 COLS=4 RULES=NONE BORDER=0>
-	<COLGROUP><COL WIDTH=134><COL WIDTH=27><COL WIDTH=154><COL WIDTH=167></COLGROUP>
-	<TBODY>
-		<TR>
-			<TD WIDTH=134 HEIGHT=17 ALIGN=LEFT VALIGN=TOP><BR></TD>
-			<TD WIDTH=27 ALIGN=LEFT VALIGN=TOP><BR></TD>
-			<TD WIDTH=154 ALIGN=LEFT VALIGN=TOP>Qualification</TD>
-			<TD WIDTH=167 ALIGN=LEFT VALIGN=TOP>Experience</TD>
-		</TR>
-		<TR>
-			<TD HEIGHT=32 ALIGN=LEFT VALIGN=TOP>Project Manager</TD>
-			<TD ALIGN=RIGHT VALIGN=TOP SDVAL="1" SDNUM="1033;">1</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>Any Degree</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>2+ years in management</TD>
-		</TR>
-		<TR>
-			<TD HEIGHT=32 ALIGN=LEFT VALIGN=TOP>Senior Programmers</TD>
-			<TD ALIGN=RIGHT VALIGN=TOP SDVAL="4" SDNUM="1033;">4</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>CSC degree</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>2+ years, strong skills</TD>
-		</TR>
-		<TR>
-			<TD HEIGHT=17 ALIGN=LEFT VALIGN=TOP>Trainee programmers</TD>
-			<TD ALIGN=RIGHT VALIGN=TOP SDVAL="10" SDNUM="1033;">10</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>CSC degree</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>Freshers</TD>
-		</TR>
-		<TR>
-			<TD HEIGHT=32 ALIGN=LEFT VALIGN=TOP>UI Designer</TD>
-			<TD ALIGN=RIGHT VALIGN=TOP SDVAL="1" SDNUM="1033;">1</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>Design course</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>Design skill/sense</TD>
-		</TR>
-		<TR>
-			<TD HEIGHT=32 ALIGN=LEFT VALIGN=TOP>Quality Engineer</TD>
-			<TD ALIGN=RIGHT VALIGN=TOP SDVAL="2" SDNUM="1033;">2</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>CSC degree</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>QC experience</TD>
-		</TR>
-		<TR>
-			<TD HEIGHT=62 ALIGN=LEFT VALIGN=TOP>Customer Service</TD>
-			<TD ALIGN=RIGHT VALIGN=TOP SDVAL="5" SDNUM="1033;">5</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>Commerce, diploma in leather tech, footwear tech</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>Working experience in leather industry</TD>
-		</TR>
-		<TR>
-			<TD HEIGHT=32 ALIGN=LEFT VALIGN=TOP>Business Executives</TD>
-			<TD ALIGN=RIGHT VALIGN=TOP SDVAL="3" SDNUM="1033;">3</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>BE/MBA</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>Senior positions</TD>
-		</TR>
-		<TR>
-			<TD HEIGHT=32 ALIGN=LEFT VALIGN=TOP>Admin &amp; Accounts</TD>
-			<TD ALIGN=RIGHT VALIGN=TOP SDVAL="1" SDNUM="1033;">1</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>Commerce</TD>
-			<TD ALIGN=LEFT VALIGN=TOP>Experience as admin</TD>
-		</TR>
-		<TR>
-			<TD HEIGHT=17 ALIGN=LEFT VALIGN=TOP><BR></TD>
-			<TD ALIGN=RIGHT VALIGN=TOP SDVAL="27" SDNUM="1033;">27</TD>
-			<TD ALIGN=LEFT VALIGN=TOP><BR></TD>
-			<TD ALIGN=LEFT VALIGN=TOP><BR></TD>
-		</TR>
-	</TBODY>
-</TABLE>
+||Qualification|Experience
+Project Manager|1|Any Degree|2+ years in management
+Senior Programmers|4|CSC degree|2+ years| strong skills
+Trainee programmers|10|CSC degree|Freshers
+UI Designer|1|Design course|Design skill/sense
+Quality Engineer|2|CSC degree|QC experience
+Customer Service|5|Commerce| diploma in leather tech| footwear tech|Working experience in leather industry
+Business Executives|3|BE/MBA|Senior positions
+Admin & Accounts|1|Commerce|Experience as admin
+|27||
