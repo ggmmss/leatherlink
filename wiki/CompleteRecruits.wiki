@@ -6,7 +6,7 @@
 
 = Details =
 
-||||Qualification||Experience
+ || ||Qualification || Experience||
 Project Manager||1||Any Degree||2+ years in management
 Senior Programmers||4||CSC degree||2+ years|| strong skills
 Trainee programmers||10||CSC degree||Freshers
